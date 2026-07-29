@@ -1,1 +1,16 @@
-{"name":"Dánia 2026 – mobil útikalauz","short_name":"Dánia 2026","start_url":"./","scope":"./","display":"standalone","background_color":"#07111d","theme_color":"#07111d","lang":"hu","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{
+  "name": "Dánia 2026 – prémium útikalauz",
+  "short_name": "Dánia 2026",
+  "description": "Személyes dániai útiterv, térképek, GPS és hasznos tippek.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070708",
+  "theme_color": "#a70f1a",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
